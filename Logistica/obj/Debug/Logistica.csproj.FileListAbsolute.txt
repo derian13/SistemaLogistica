@@ -1,0 +1,5 @@
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\Logistica\Logistica\bin\Debug\Logistica.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\Logistica\Logistica\bin\Debug\Logistica.pdb
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\Logistica\Logistica\obj\Debug\Logistica.csprojResolveAssemblyReference.cache
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\Logistica\Logistica\obj\Debug\Logistica.dll
+c:\users\deria\onedrive\documentos\visual studio 2015\Projects\Logistica\Logistica\obj\Debug\Logistica.pdb
